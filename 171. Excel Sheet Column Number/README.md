@@ -59,5 +59,7 @@ This is similar to **'how to calculate binary or decimal or any given number sca
 
 * How this '2ms solution' come? I tried but it does not work, it's still 5ms. [2ms solution](https://leetcode.com/problems/excel-sheet-column-number/discuss/52124/My-2ms-JAVA-solution)
 
+* Can it use recursive method?
+
   ​
 
