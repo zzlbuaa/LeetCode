@@ -37,7 +37,7 @@ class Solution {
 }
 ```
 
-**Analysis:** Loop from the back of the string, and use ***Math.pow()*** for transition.
+**Analysis:** Loop from the back of the string, and use ***Math.pow()*** for transition. Though its speed is the same as mine.
 
 
 
