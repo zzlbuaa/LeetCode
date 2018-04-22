@@ -16,3 +16,10 @@ Personal solutions for LeetCode
 [171. Excel Sheet Column Number](https://github.com/zzlbuaa/LeetCode/tree/master/171.%20Excel%20Sheet%20Column%20Number)
 
 [237. Delete Node in a Linked List](https://github.com/zzlbuaa/LeetCode/tree/master/237.%20Delete%20Node%20in%20a%20Linked%20List)
+
+#### 4.22
+
+[58. Length of Last Word](https://github.com/zzlbuaa/LeetCode/tree/master/58.%20Length%20of%20Last%20Word)
+
+[206. Reverse Linked List](https://github.com/zzlbuaa/LeetCode/tree/master/206.%20Reverse%20Linked%20List)
+
