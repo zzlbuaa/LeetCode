@@ -23,3 +23,11 @@ Personal solutions for LeetCode
 
 [206. Reverse Linked List](https://github.com/zzlbuaa/LeetCode/tree/master/206.%20Reverse%20Linked%20List)
 
+#### 4.23
+
+[9. Palindrome Number](https://github.com/zzlbuaa/LeetCode/tree/master/9.%20Palindrome%20Number)
+
+[203. Remove Linked List Elements](https://github.com/zzlbuaa/LeetCode/tree/master/203.%20Remove%20Linked%20List%20Elements)
+
+[231. Power of Two](https://github.com/zzlbuaa/LeetCode/tree/master/231.%20Power%20of%20Two)
+
