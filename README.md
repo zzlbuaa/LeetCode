@@ -31,3 +31,11 @@ Personal solutions for LeetCode
 
 [231. Power of Two](https://github.com/zzlbuaa/LeetCode/tree/master/231.%20Power%20of%20Two)
 
+#### 4.24
+
+[20. Valid Parentheses](https://github.com/zzlbuaa/LeetCode/tree/master/20.%20Valid%20Parentheses)
+
+[Swap Nodes in Pairs](https://github.com/zzlbuaa/LeetCode/tree/master/24.%20Swap%20Nodes%20in%20Pairs)
+
+[35. Search Insert Position](https://github.com/zzlbuaa/LeetCode/tree/master/35.%20Search%20Insert%20Position)
+
