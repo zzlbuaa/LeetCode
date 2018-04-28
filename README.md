@@ -48,3 +48,10 @@ Personal solutions for LeetCode
 #### 4.26
 
 [48. Rotate Image](https://github.com/zzlbuaa/LeetCode/tree/master/48.%20Rotate%20Image)
+
+#### 4.28
+
+[100. Same Tree](https://github.com/zzlbuaa/LeetCode/tree/master/100.%20Same%20Tree)
+
+[226. Invert Binary Tree](https://github.com/zzlbuaa/LeetCode/tree/master/226.%20Invert%20Binary%20Tree)
+
