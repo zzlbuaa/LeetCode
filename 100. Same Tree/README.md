@@ -44,7 +44,7 @@ Output: false
 
 
 
-### Iterativee Solution
+### Recursive Solution
 
 ```java
 /**

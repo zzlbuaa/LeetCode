@@ -62,4 +62,4 @@ class Solution {
 
 At first I wrote *invertTree(root.left)* instead of *root.left = invertTree(root.left)*, and it  finally returns the most recent only one child node, I cannot figure out why!
 
-**Update:**It's actually not the case.  Both *invertTree(root.left)* and *root.left = invertTree(root.left)* are OK because of the parameter passing characteristic of JAVA reference type.
+**Update:** It's actually not the case.  Both *invertTree(root.left)* and *root.left = invertTree(root.left)* are OK because of the parameter passing characteristic of JAVA reference type.
