@@ -55,3 +55,7 @@ Personal solutions for LeetCode
 
 [226. Invert Binary Tree](https://github.com/zzlbuaa/LeetCode/tree/master/226.%20Invert%20Binary%20Tree)
 
+#### 4.29
+
+[7. Reverse Integer](https://github.com/zzlbuaa/LeetCode/tree/master/7.%20Reverse%20Integer)
+
