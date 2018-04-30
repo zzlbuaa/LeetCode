@@ -59,3 +59,9 @@ Personal solutions for LeetCode
 
 [7. Reverse Integer](https://github.com/zzlbuaa/LeetCode/tree/master/7.%20Reverse%20Integer)
 
+#### 4.30
+
+[21. Merge Two Sorted Lists](https://github.com/zzlbuaa/LeetCode/tree/master/21.%20Merge%20Two%20Sorted%20Lists)
+
+[66. Plus One](https://github.com/zzlbuaa/LeetCode/tree/master/66.%20Plus%20One)
+
