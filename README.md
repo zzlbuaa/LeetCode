@@ -65,3 +65,11 @@ Personal solutions for LeetCode
 
 [66. Plus One](https://github.com/zzlbuaa/LeetCode/tree/master/66.%20Plus%20One)
 
+#### 5.2
+
+[1. Two Sum](https://github.com/zzlbuaa/LeetCode/tree/master/1.%20Two%20Sum)
+
+[26. Remove Duplicates from Sorted Array](https://github.com/zzlbuaa/LeetCode/tree/master/26.%20Remove%20Duplicates%20from%20Sorted%20Array)
+
+[27. Remove Element](https://github.com/zzlbuaa/LeetCode/tree/master/27.%20Remove%20Element)
+
