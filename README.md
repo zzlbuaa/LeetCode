@@ -77,3 +77,10 @@ Personal solutions for LeetCode
 
 [238. Product of Array Except Self](https://github.com/zzlbuaa/LeetCode/tree/master/238.%20Product%20of%20Array%20Except%20Self)
 
+#### 5.4
+
+[112. Path Sum](https://github.com/zzlbuaa/LeetCode/tree/master/112.%20Path%20Sum)
+
+[22. Generate Parentheses](https://github.com/zzlbuaa/LeetCode/tree/master/22.%20Generate%20Parentheses)
+
+[283. Move Zeroes](https://github.com/zzlbuaa/LeetCode/tree/master/283.%20Move%20Zeroes)
