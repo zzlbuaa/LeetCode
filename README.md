@@ -84,3 +84,7 @@ Personal solutions for LeetCode
 [22. Generate Parentheses](https://github.com/zzlbuaa/LeetCode/tree/master/22.%20Generate%20Parentheses)
 
 [283. Move Zeroes](https://github.com/zzlbuaa/LeetCode/tree/master/283.%20Move%20Zeroes)
+
+#### 5.5
+
+[74. Search a 2D Matrix](https://github.com/zzlbuaa/LeetCode/tree/master/74.%20Search%20a%202D%20Matrix)
