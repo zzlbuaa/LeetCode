@@ -88,3 +88,12 @@ Personal solutions for LeetCode
 #### 5.5
 
 [74. Search a 2D Matrix](https://github.com/zzlbuaa/LeetCode/tree/master/74.%20Search%20a%202D%20Matrix)
+
+#### 5.6
+
+[113. Path Sum II](https://github.com/zzlbuaa/LeetCode/tree/master/113.%20Path%20Sum%20II)
+
+[129. Sum Root to Leaf Numbers](https://github.com/zzlbuaa/LeetCode/tree/master/129.%20Sum%20Root%20to%20Leaf%20Numbers)
+
+[257. Binary Tree Paths](https://github.com/zzlbuaa/LeetCode/tree/master/257.%20Binary%20Tree%20Paths)
+
