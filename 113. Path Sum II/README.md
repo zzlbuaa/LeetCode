@@ -64,6 +64,8 @@ class Solution {
 }
 ```
 
-Typical DFS & recursion solution. ***But there is something special to notice about this specific question:***
+Typical DFS & recursion solution for binary tree. ***But there is something special to notice about this specific question:***
 
-What's different about this question is that, the *List<List<Integer>>* **res** we use to store the results cannot automatically keep what it is within each time of recursion, so we have to manually remove the newest element in this **res** list to keep things in order.
+What's different about this question is that, the *List<List<Integer>>* **res** we use to store the results cannot automatically keep what it is within each time of recursion, instead, it keeps automatically growing, so we have to manually remove the newest element in this **res** list to keep things in order.
+
+Similar questions: [113. Path Sum II](https://github.com/zzlbuaa/LeetCode/tree/master/113.%20Path%20Sum%20II) [129. Sum Root to Leaf Numbers](https://github.com/zzlbuaa/LeetCode/tree/master/129.%20Sum%20Root%20to%20Leaf%20Numbers)  [257. Binary Tree Paths](https://github.com/zzlbuaa/LeetCode/tree/master/257.%20Binary%20Tree%20Paths) [22. Generate Parentheses](https://github.com/zzlbuaa/LeetCode/tree/master/22.%20Generate%20Parentheses)

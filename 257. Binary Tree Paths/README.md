@@ -56,3 +56,5 @@ class Solution {
 Attention: **String** type is immutable. And according to that, when we recursively call **helper** method, the **String** cur is passed by value, so it will remain unchanged in its hierachy automatically. Unlike in [113. Path Sum II]() we need to manually remove the newest result in each recursion.
 
 Rememer to think about what **cur** is in each recursion and manually add the last **node.val** in the end of recursion.
+
+Similar questions: [113. Path Sum II](https://github.com/zzlbuaa/LeetCode/tree/master/113.%20Path%20Sum%20II) [129. Sum Root to Leaf Numbers](https://github.com/zzlbuaa/LeetCode/tree/master/129.%20Sum%20Root%20to%20Leaf%20Numbers)  [257. Binary Tree Paths](https://github.com/zzlbuaa/LeetCode/tree/master/257.%20Binary%20Tree%20Paths) [22. Generate Parentheses](https://github.com/zzlbuaa/LeetCode/tree/master/22.%20Generate%20Parentheses)
