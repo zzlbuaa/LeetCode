@@ -89,7 +89,7 @@ Personal solutions for LeetCode
 
 [74. Search a 2D Matrix](https://github.com/zzlbuaa/LeetCode/tree/master/74.%20Search%20a%202D%20Matrix)
 
-#### 5.6
+#### 5.6 DFS & recursion in binary tree
 
 [113. Path Sum II](https://github.com/zzlbuaa/LeetCode/tree/master/113.%20Path%20Sum%20II)
 
