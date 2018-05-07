@@ -97,3 +97,9 @@ Personal solutions for LeetCode
 
 [257. Binary Tree Paths](https://github.com/zzlbuaa/LeetCode/tree/master/257.%20Binary%20Tree%20Paths)
 
+#### 5.7 Backtracking
+
+[46. Permutations](https://github.com/zzlbuaa/LeetCode/tree/master/46.%20Permutations)
+
+
+
