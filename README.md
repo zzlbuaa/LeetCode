@@ -101,5 +101,9 @@ Personal solutions for LeetCode
 
 [46. Permutations](https://github.com/zzlbuaa/LeetCode/tree/master/46.%20Permutations)
 
+#### 5.8
 
+[77. Combinations](https://github.com/zzlbuaa/LeetCode/tree/master/77.%20Combinations)
+
+[78. Subsets](https://github.com/zzlbuaa/LeetCode/tree/master/78.%20Subsets)
 
