@@ -107,3 +107,8 @@ Personal solutions for LeetCode
 
 [78. Subsets](https://github.com/zzlbuaa/LeetCode/tree/master/78.%20Subsets)
 
+#### 5.9
+
+[39. Combination Sum](https://github.com/zzlbuaa/LeetCode/tree/master/39.%20Combination%20Sum)
+
+[40. Combination Sum II](https://github.com/zzlbuaa/LeetCode/tree/master/40.%20Combination%20Sum%20II)
