@@ -121,3 +121,13 @@ Personal solutions for LeetCode
 
 [90. Subsets II](https://github.com/zzlbuaa/LeetCode/tree/master/90.%20Subsets%20II)
 
+#### 6.30
+
+[152. Maximum Product Subarray](https://github.com/zzlbuaa/LeetCode/tree/master/152.%20Maximum%20Product%20Subarray)
+
+[198. House Robber](https://github.com/zzlbuaa/LeetCode/tree/master/198.%20House%20Robber)
+
+[53. Maximum Subarray](https://github.com/zzlbuaa/LeetCode/tree/master/53.%20Maximum%20Subarray)
+
+[70. Climbing Stairs](https://github.com/zzlbuaa/LeetCode/tree/master/70.%20Climbing%20Stairs)
+
